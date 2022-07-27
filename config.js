@@ -11,7 +11,7 @@ global.prems = ['6281251549899'] //ganti pakai nomormu biar bot berfungsi
 
 //=============『 Info Owner 』============== //
 global.nameowner = 'ᴹᴿ᭄ DaniBotzOffcོ_1ঔৣ꧂'
-global.numberowner = '6281251549899' //ganti pakai nomor mu
+global.numberowner = '6283150688326' //ganti pakai nomor mu
 global.instagram = 'Gk Ad Bwang:v' //ganti pakai Instagram mu
 global.github = 'https://github.com/Bot-Mdnew' //ganti aja pakai githubmu
 global.tt = '"_"' //ganti aja pakai tiktok mu
@@ -70,7 +70,7 @@ global.APIs = { // API Prefix
   jonaz: 'https://jonaz-api-v2.herokuapp.com',
   neoxr: 'https://neoxr-api.herokuapp.com',
   nrtm: 'https://nurutomo.herokuapp.com',
-  xteam: 'https://api.xteam.xyz',
+  xteam: 'https://api.akuari.my.id',
   nzcha: 'http://nzcha-apii.herokuapp.com',
   bg: 'http://bochil.ddns.net',
   fdci: 'https://api.fdci.se',
@@ -90,7 +90,7 @@ global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
   'https://melcanz.com': 'elaina',
   'https://server-api-rey.herokuapp.com': 'apirey',
-  'https://api.xteam.xyz': 'd37372311698ed1d',
+  'https://api.akuari.my.id': 'gogon',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
   'https://bsbt-api-rest.herokuapp.com': 'benniismael',
   'https://api.zeks.xyz': 'apivinz',
