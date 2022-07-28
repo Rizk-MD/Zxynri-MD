@@ -252,14 +252,14 @@ module.exports = {
                     if (!('autolevelup' in user)) user.autolevelup = true
                     if (!('lastIstigfar' in user)) user.lastIstigfar = true
                 } else global.db.data.users[m.sender] = {
-                    healt: 100,
+                    healt: 99999999999999,
                     title: '',
                     haus: 100,
                     laper: 100,
                     tprem: 0,
-                    stamina : 100,
+                    stamina : 9999999999,
                     level: 0,
-                    pasangan: '',
+                    pasangan: 'Nakano ',
                     pc : 0,
                     exp: 0,
                     coin: 0,
